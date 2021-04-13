@@ -30,7 +30,7 @@ export default class MyDocument extends Document {
 
   render(): JSX.Element {
     return (
-      <Html lang="pt">
+      <Html lang="en">
         <Head>
           <meta charSet="UTF-8" />
           <link rel="icon" href="/favicon.png" />
